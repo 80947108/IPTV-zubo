@@ -1,0 +1,3 @@
+# 20261014_1516_precise_slow
+# 服务器地址	速度
+zjhuct.synology.me:8889	75.30 KB/s

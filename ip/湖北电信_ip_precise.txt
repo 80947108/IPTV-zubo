@@ -1,6 +1,5 @@
-# 20261013_1737_precise
+# 20261014_1503_precise
 # 服务器地址	速度
-www.661130.xyz:8188	393.01 KB/s
-hiliu.myds.me:18088	389.56 KB/s
-wlei.myds.me:52057	386.09 KB/s
-59.173.120.125:4022	375.93 KB/s
+wlei.myds.me:52057	451.77 KB/s
+i2.timogo.cc:9156	435.12 KB/s
+www.661130.xyz:8188	367.41 KB/s
