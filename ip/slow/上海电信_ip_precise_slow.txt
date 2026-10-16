@@ -1,5 +1,6 @@
-# 20261015_1459_precise_slow
+# 20261016_1457_precise_slow
 # 服务器地址	速度
-180.165.1.161:4022	280.80 KB/s
-cloud.sunrisecom.wang:18888	242.60 KB/s
-cloud.sunrisecom.wang:8888	189.44 KB/s
+cloud.sunrisecom.wang:18888	291.28 KB/s
+223.167.230.155:4022	283.49 KB/s
+180.165.25.53:4022	261.96 KB/s
+rongrong.synology.me:14022	183.60 KB/s

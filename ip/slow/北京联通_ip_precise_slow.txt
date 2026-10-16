@@ -1,3 +1,4 @@
-# 20261015_1444_precise_slow
+# 20261016_1437_precise_slow
 # 服务器地址	速度
-unicom3.swjms.com:4022	206.81 KB/s
+unicom3.swjms.com:4022	222.10 KB/s
+superpostmail.3322.org:1193	164.99 KB/s

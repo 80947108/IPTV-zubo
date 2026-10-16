@@ -1,6 +1,4 @@
-# 20261015_1502_precise_slow
+# 20261016_1504_precise_slow
 # 服务器地址	速度
-zjhuct.synology.me:8889	285.15 KB/s
-zjhuct.icu:8889	275.13 KB/s
-zjhuct.synology.me:8881	271.09 KB/s
-hzmaidu.com:8090	237.15 KB/s
+rhfwily.synology.me:4022	159.11 KB/s
+zjhuct.synology.me:8889	67.47 KB/s
