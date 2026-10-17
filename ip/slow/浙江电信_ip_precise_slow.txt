@@ -1,4 +1,5 @@
-# 20261016_1504_precise_slow
+# 20261017_1349_precise_slow
 # 服务器地址	速度
-rhfwily.synology.me:4022	159.11 KB/s
-zjhuct.synology.me:8889	67.47 KB/s
+www.tangtuanpp.fun:4000	299.40 KB/s
+60.183.111.202:8000	291.13 KB/s
+rhfwily.synology.me:4022	290.59 KB/s

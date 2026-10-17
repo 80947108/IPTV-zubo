@@ -1,4 +1,0 @@
-# 20261016_1445_precise_slow
-# 服务器地址	速度
-www.siyao.xin:4000	176.49 KB/s
-nnu.qzz.io:4000	133.80 KB/s

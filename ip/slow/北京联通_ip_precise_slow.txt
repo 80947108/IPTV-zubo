@@ -1,4 +1,4 @@
-# 20261016_1437_precise_slow
+# 20261017_1330_precise_slow
 # 服务器地址	速度
-unicom3.swjms.com:4022	222.10 KB/s
-superpostmail.3322.org:1193	164.99 KB/s
+www.xiongnas.top:8888	292.35 KB/s
+home.zgnc.fun:8821	228.80 KB/s
