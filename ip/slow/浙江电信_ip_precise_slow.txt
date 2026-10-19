@@ -1,3 +1,4 @@
-# 20261018_1411_precise_slow
+# 20261019_1714_precise_slow
 # 服务器地址	速度
-gilbert0571.eu.org:8888	136.80 KB/s
+www.tangtuanpp.fun:4000	271.92 KB/s
+zjhuct.icu:8889	119.86 KB/s

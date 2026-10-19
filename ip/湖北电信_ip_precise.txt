@@ -1,6 +1,6 @@
-# 20261018_1402_precise
+# 20261019_1701_precise
 # 服务器地址	速度
-www.661130.xyz:8188	431.79 KB/s
-wlei.myds.me:52057	421.94 KB/s
-m3u.fanhuahust.top:8188	392.59 KB/s
-zhangkx717.cn:9999	313.68 KB/s
+www.661130.xyz:8188	391.44 KB/s
+wlei.myds.me:52057	360.69 KB/s
+m3u.fanhuahust.top:8188	359.25 KB/s
+zhangkx717.cn:9999	344.00 KB/s
