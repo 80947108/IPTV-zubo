@@ -1,10 +1,8 @@
-# 20261021_1508_precise
+# 20261022_1510_precise
 # 服务器地址	速度
-cloud.sunrisecom.wang:8888	765.45 KB/s
-shenhua.asuscomm.com:8888	723.23 KB/s
-223.167.230.155:4022	678.63 KB/s
-180.165.1.161:4022	572.15 KB/s
-yyf1991.top:9999	561.83 KB/s
-180.165.2.141:4022	548.22 KB/s
-rongrong.synology.me:14022	470.24 KB/s
-cloud.sunrisecom.wang:18888	337.72 KB/s
+shenhua.asuscomm.com:8888	616.28 KB/s
+223.167.230.155:4022	555.52 KB/s
+cloud.sunrisecom.wang:8888	519.25 KB/s
+180.165.1.161:4022	493.50 KB/s
+180.165.2.141:4022	357.01 KB/s
+rongrong.synology.me:14022	342.17 KB/s

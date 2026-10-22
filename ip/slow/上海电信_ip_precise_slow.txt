@@ -1,0 +1,5 @@
+# 20261022_1510_precise_slow
+# 服务器地址	速度
+cloud.sunrisecom.wang:18888	278.11 KB/s
+yyf1991.top:9999	233.10 KB/s
+www.wqcjoy.xyz:8188	203.14 KB/s
