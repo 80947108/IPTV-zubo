@@ -1,8 +1,7 @@
-# 20261022_1501_precise_slow
+# 20261023_1446_precise_slow
 # 服务器地址	速度
-www.yahao.host:4022	297.04 KB/s
-113.101.245.135:9988	261.08 KB/s
-home.8v8.fun:4333	251.47 KB/s
-liqn.mycloudnas.com:8188	229.74 KB/s
-nas.xxika.net:8188	142.11 KB/s
-113.46.194.7:8140	45.44 KB/s
+113.101.245.135:9988	267.50 KB/s
+nas.xxika.net:8188	266.84 KB/s
+svn.huase.ltd:8888	246.23 KB/s
+udp2.gdsz.eu.org:8888	219.60 KB/s
+113.46.194.7:8140	43.92 KB/s

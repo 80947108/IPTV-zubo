@@ -1,4 +1,3 @@
-# 20261022_1506_precise_slow
+# 20261023_1452_precise_slow
 # 服务器地址	速度
-zhangkx717.cn:9999	233.24 KB/s
-qnapxuan.mycloudnas.com:10001	66.85 KB/s
+qnapxuan.mycloudnas.com:10001	28.56 KB/s
