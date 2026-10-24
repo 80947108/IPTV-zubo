@@ -1,0 +1,3 @@
+# 20261024_1404_precise_slow
+# 服务器地址	速度
+cloud.sunrisecom.wang:8888	269.94 KB/s
